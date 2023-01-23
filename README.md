@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Igor!
 
 - 🎈 Quality Assurance Analyst
-- 📫 Linkedin: 
+- 📫 Linkedin: https://www.linkedin.com/in/igorsgaldino/
 
 
 <p>test</p> <br>
@@ -28,6 +28,7 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-555?style=flat&logo=gitlab)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-555?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;\
 ![Postman](https://img.shields.io/badge/-Postman-555?style=flat&logo=postman)&nbsp;
+![Katalon Studio](https://img.shields.io/badge/-Katalon-555?style=flat&logo=katalon)&nbsp;
 ![Jmeter](https://img.shields.io/badge/-Jmeter-555?style=flat&logo=jmeter)&nbsp;
 ![Jira](https://img.shields.io/badge/-Jira-555?style=flat&logo=jira)&nbsp;
 ![Trello](https://img.shields.io/badge/-Trello-555?style=flat&logo=trello)&nbsp;
@@ -36,9 +37,9 @@
  ##
   
  <div> 
-  <a href="https://www.linkedin.com/in/vianavanessa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href="mailto:vanessavviana@outlook.com.br" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
+  <a href="https://www.linkedin.com/in/igorsgaldino/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="mailto:igorsgaldino96@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
  
-  ![Snake animation](https://github.com/VanessaVViana/VanessaVViana/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/igorsgaldino/IgorGaldino/blob/output/github-contribution-grid-snake.svg)
  
 </div>
