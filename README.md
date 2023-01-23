@@ -8,22 +8,19 @@
 
   
  <div style="display: inline_block"><br>
-<!--   <img align="center" alt="Vanessa-Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg">
-  <img align="center" alt="Vanessa-Cucumber" height="30" width="30" src="https://avatars.githubusercontent.com/u/320565?s=200&v=4">
-  <img align="center" alt="Vanessa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Vanessa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Vanessa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Vanessa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
-  <img align="right" alt="  " height="150" width="190" src="https://c.tenor.com/29Ok5pc0ivAAAAAM/gatinho-gato.gif">
+<!--   
+  <img align="center" alt="Igor-Cucumber" height="30" width="30" src="https://avatars.githubusercontent.com/u/320565?s=200&v=4">
+  <img align="center" alt="Igor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Igor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   -->
+  <img align="right" alt="  " height="150" width="190" src="https://media.tenor.com/bN2IkZ5vzxIAAAAC/byuntear-meme.gif">
 </div> 
   
  ## 🛠️ Tech Stack:
 ![Selenium](https://img.shields.io/badge/-Selenium-555?style=flat&logo=selenium)&nbsp;
 ![Cucumber](https://img.shields.io/badge/-Cucumber-555?style=flat&logo=cucumber)&nbsp;
-![Python](https://img.shields.io/badge/-Python-555?style=flat&logo=python)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-555?style=flat&logo=HTML)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-555?style=flat&logo=CSS)&nbsp;
-![Ruby](https://img.shields.io/badge/-Ruby-555?style=flat&logo=ruby)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-555?style=flat&logo=javascript)\
 ![Git](https://img.shields.io/badge/-Git-555?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-555?style=flat&logo=github)&nbsp;
