@@ -4,7 +4,18 @@
 - 📫 Linkedin: https://www.linkedin.com/in/igorsgaldino/
 
 
-<p>test</p> <br>
+<p>Atualmente cursando Análise e Desenvolvimentos de Sistemas na Universidade Paulista - Campus Santos. 
+
+Quality Assurance: 
+- Conhecimento em testes funcionais (testes de serviço, APIs, web). 
+- Conhecimento em modelagem de casos de testes, execução de testes em cima da modelagem realizada.
+- Conhecimento em captura, reporte e gerenciamento de defeitos/bugs. 
+- Conhecimento em validações de API utilizando o POSTMAN
+- Conhecimento em processos de desenvolvimento ágil (SCRUM/Jira, Runrun.it, Trello) 
+- Conhecimento em testes de performance utilizando o JMETER
+
+UX/UI:
+- Conhecimento nas ferramentas figma e behance.</p> <br>
 
   
  <div style="display: inline_block"><br>
@@ -40,6 +51,6 @@
   <a href="https://www.linkedin.com/in/igorsgaldino/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href="mailto:igorsgaldino96@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
  
-  ![Snake animation](https://github.com/igorsgaldino/IgorGaldino/blob/output/github-contribution-grid-snake.svg)
+  <!-- ![Snake animation](https://github.com/igorsgaldino/IgorGaldino/blob/output/github-contribution-grid-snake.svg) -->
  
 </div>
