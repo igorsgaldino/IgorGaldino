@@ -39,7 +39,7 @@ UX/UI:
 ![GitLab](https://img.shields.io/badge/-GitLab-555?style=flat&logo=gitlab)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-555?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;\
 ![Postman](https://img.shields.io/badge/-Postman-555?style=flat&logo=postman)&nbsp;
-![Katalon Studio](https://img.shields.io/badge/-KatalonStudio-555?style=flat&logo=katalonstudio)&nbsp;
+![Katalon Studio](https://img.shields.io/badge/-Katalon-555?style=flat&logo=katalon)&nbsp;
 ![Jmeter](https://img.shields.io/badge/-Jmeter-555?style=flat&logo=jmeter)&nbsp;
 ![Jira](https://img.shields.io/badge/-Jira-555?style=flat&logo=jira)&nbsp;
 ![Trello](https://img.shields.io/badge/-Trello-555?style=flat&logo=trello)&nbsp;
