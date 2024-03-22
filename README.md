@@ -31,18 +31,13 @@ UX/UI:
  ## 🛠️ Tech Stack:
 ![Cypress](https://img.shields.io/badge/-Cypress-555?style=flat&logo=cypress)&nbsp;
 ![Cucumber](https://img.shields.io/badge/-Cucumber-555?style=flat&logo=cucumber)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-555?style=flat&logo=Hhtml)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-555?style=flat&logo=css)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-555?style=flat&logo=javascript)\
 ![Git](https://img.shields.io/badge/-Git-555?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-555?style=flat&logo=github)&nbsp;
-![Bitbucket](https://img.shields.io/badge/-Bitbucket-555?style=flat&logo=bitbucket)&nbsp;
 ![GitLab](https://img.shields.io/badge/-GitLab-555?style=flat&logo=gitlab)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-555?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;\
 ![Postman](https://img.shields.io/badge/-Postman-555?style=flat&logo=postman)&nbsp;
-![Katalon Studio](https://img.shields.io/badge/-Katalon-555?style=flat&logo=katalon)&nbsp;
 ![Jira](https://img.shields.io/badge/-Jira-555?style=flat&logo=jira)&nbsp;
-![Trello](https://img.shields.io/badge/-Trello-555?style=flat&logo=trello)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-555?style=flat&logo=adobe-figma)&nbsp;
  
  ##
