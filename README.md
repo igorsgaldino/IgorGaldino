@@ -3,7 +3,6 @@
 - 🎈 Quality Assurance Analyst
 - 📫 Linkedin: https://www.linkedin.com/in/igorsgaldino/
 
-
 <p>Atualmente cursando Análise e Desenvolvimentos de Sistemas na Universidade Paulista - Campus Santos. 
 
 Quality Assurance: 
@@ -15,10 +14,6 @@ Quality Assurance:
 - Conhecimento em processos de desenvolvimento ágil (SCRUM/Jira, Runrun.it, Trello) 
 - Conhecimento em gerenciamento de testes utilizando o Zephyr
 
-UX/UI:
-- Conhecimento nas ferramentas figma e behance.</p> <br>
-
-  
  <div style="display: inline_block"><br>
 <!--   
   <img align="center" alt="Igor-Cucumber" height="30" width="30" src="https://avatars.githubusercontent.com/u/320565?s=200&v=4">
@@ -38,14 +33,11 @@ UX/UI:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-555?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;\
 ![Postman](https://img.shields.io/badge/-Postman-555?style=flat&logo=postman)&nbsp;
 ![Jira](https://img.shields.io/badge/-Jira-555?style=flat&logo=jira)&nbsp;
-![Figma](https://img.shields.io/badge/-Figma-555?style=flat&logo=adobe-figma)&nbsp;
  
  ##
   
  <div> 
   <a href="https://www.linkedin.com/in/igorsgaldino/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href="mailto:igorsgaldino96@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
- 
-![Snake animation](https://github.com/igorsgaldino/igorsgaldino/blob/output/github-contribution-grid-snake.svg)
+ <a href="mailto:igorsgaldino96@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=email-outlook&logoColor=white" target="_blank">
  
 </div>
