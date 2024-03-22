@@ -31,8 +31,8 @@ UX/UI:
  ## 🛠️ Tech Stack:
 ![Cypress](https://img.shields.io/badge/-Cypress-555?style=flat&logo=cypress)&nbsp;
 ![Cucumber](https://img.shields.io/badge/-Cucumber-555?style=flat&logo=cucumber)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-555?style=flat&logo=HTML)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-555?style=flat&logo=CSS)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-555?style=flat&logo=Hhtml)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-555?style=flat&logo=css)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-555?style=flat&logo=javascript)\
 ![Git](https://img.shields.io/badge/-Git-555?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-555?style=flat&logo=github)&nbsp;
