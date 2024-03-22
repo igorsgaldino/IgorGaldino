@@ -7,10 +7,11 @@
 <p>Atualmente cursando Análise e Desenvolvimentos de Sistemas na Universidade Paulista - Campus Santos. 
 
 Quality Assurance: 
-- Conhecimento em testes funcionais (testes de serviço, APIs, web). 
+- Conhecimento em testes funcionais (testes de serviço, APIs, web).
+- Conhecimento em testes automatizados utilizando Cypress.
 - Conhecimento em modelagem de casos de testes, execução de testes em cima da modelagem realizada.
 - Conhecimento em captura, reporte e gerenciamento de defeitos/bugs. 
-- Conhecimento em validações de API utilizando o POSTMAN
+- Conhecimento em validações de API utilizando o Postman
 - Conhecimento em processos de desenvolvimento ágil (SCRUM/Jira, Runrun.it, Trello) 
 - Conhecimento em gerenciamento de testes utilizando o Zephyr
 
