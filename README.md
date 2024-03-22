@@ -38,6 +38,5 @@ Quality Assurance:
   
  <div> 
   <a href="https://www.linkedin.com/in/igorsgaldino/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href="mailto:igorsgaldino96@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=email-outlook&logoColor=white" target="_blank">
  
 </div>
