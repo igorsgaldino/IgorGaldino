@@ -29,7 +29,7 @@ UX/UI:
 </div> 
   
  ## 🛠️ Tech Stack:
-![Cypress](https://img.shields.io/badge/-Selenium-555?style=flat&logo=selenium)&nbsp;
+![Cypress](https://img.shields.io/badge/-Cypress-555?style=flat&logo=cypress)&nbsp;
 ![Cucumber](https://img.shields.io/badge/-Cucumber-555?style=flat&logo=cucumber)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-555?style=flat&logo=HTML)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-555?style=flat&logo=CSS)&nbsp;
