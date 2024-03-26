@@ -27,8 +27,6 @@ Quality Assurance:
 ![Cypress](https://img.shields.io/badge/-Cypress-555?style=flat&logo=cypress)&nbsp;
 ![Cucumber](https://img.shields.io/badge/-Cucumber-555?style=flat&logo=cucumber)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-555?style=flat&logo=javascript)\
-![HTML](https://img.shields.io/badge/-HTML-555?style=flat&logo=html)\
-![CSS](https://img.shields.io/badge/-JavaScript-555?style=flat&logo=css)\
 ![Git](https://img.shields.io/badge/-Git-555?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-555?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-555?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;\
