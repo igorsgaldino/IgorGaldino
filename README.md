@@ -33,6 +33,7 @@ Quality Assurance:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-555?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;\
 ![Postman](https://img.shields.io/badge/-Postman-555?style=flat&logo=postman)&nbsp;
 ![Jira](https://img.shields.io/badge/-Jira-555?style=flat&logo=jira)&nbsp;
+![Jmeter](https://img.shields.io/badge/-Jmeter-555?style=flat&logo=jmeter)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-555?style=flat&logo=html)
 ![CSS](https://img.shields.io/badge/-CSS-555?style=flat&logo=css)
  
