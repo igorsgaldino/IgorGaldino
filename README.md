@@ -9,6 +9,7 @@ Quality Assurance:
 - Experiência em testes funcionais (testes de serviço, APIs, web).
 - Experiência em testes automatizados utilizando Cypress.
 - Experiência em testes automatizados utilizando Katalon Studio.
+- Experiência em testes de performance utilizando Jmeter.
 - Experiência em modelagem de casos de testes, execução de testes em cima da modelagem realizada.
 - Experiência em captura, reporte e gerenciamento de defeitos/bugs. 
 - Experiência em validações de API utilizando o Postman.
